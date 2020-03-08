@@ -3,9 +3,8 @@
 This is a simple web app that connects to an API, retrieves data using JavaScript and displays it on a website.
 This app makes use of the Studio Ghibli API(v1.0.1) available at [Studio Ghibli API](https://ghibliapi.herokuapp.com/#)
 
-The steps involved in the making of this app were made available on this tutorial by [Tania Rascia](https://github.com/taniarascia).
-
-The tutorial is available [here](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/).
+The steps involved in the making of this app were made available on this
+[tutorial](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) by [Tania Rascia](https://github.com/taniarascia).
 
 To setup the project locally:
 
